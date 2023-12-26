@@ -38,6 +38,9 @@ In this project you will build such a pipeline.
 ![image](https://github.com/Dina-samir/build-ml-pipeline-for-short-term-rental-prices/assets/36201487/572521ed-f269-470c-9db6-ce7c5ca107cc)
 
 
+![image](https://github.com/Dina-samir/build-ml-pipeline-for-short-term-rental-prices/assets/36201487/0071a504-fde5-4bf2-861f-683c36172479)
+
+
 ## Preliminary steps
 ### Fork the Starter kit
 Go to [https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git](https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git)
