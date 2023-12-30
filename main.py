@@ -98,7 +98,7 @@ def go(config: DictConfig):
             # NOTE: we need to serialize the random forest configuration into JSON
             rf_config = os.path.abspath("rf_config.json")
             with open(rf_config, "w+") as fp:
-                json.dump(dict(config["modeling"]["random_forest"].items()), fp)
+                json.dump(dict(config["modeling"]["random_forest_pipeline"]["random_forest"].items()), fp)
 
             # NOTE: use the rf_config we just created as the rf_config parameter for the train_random_forest
             # step
